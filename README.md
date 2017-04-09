@@ -1,2 +1,1 @@
-# theboardfromhell
-an imageboard with no rules
+idk lol
